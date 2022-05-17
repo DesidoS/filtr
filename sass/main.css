@@ -136,6 +136,7 @@ body {
   padding-bottom: 0px;
   margin: 0 auto;
   border-bottom: #eeeeee solid 1px;
+  background-color: tomato;
 }
 
 .menu {
@@ -1044,7 +1045,6 @@ body {
 }
 
 .project__item {
-  background-color: tomato;
   display: flex;
   justify-content: center;
 }
